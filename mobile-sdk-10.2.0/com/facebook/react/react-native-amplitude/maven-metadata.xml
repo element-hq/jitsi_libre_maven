@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-amplitude</artifactId>
+  <versioning>
+    <latest>2.17.3-jitsi-18037249</latest>
+    <release>2.17.3-jitsi-18037249</release>
+    <versions>
+      <version>2.17.3-jitsi-18037197</version>
+      <version>2.17.3-jitsi-18037249</version>
+    </versions>
+    <lastUpdated>20240918142815</lastUpdated>
+  </versioning>
+</metadata>

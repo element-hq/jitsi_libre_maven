@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-async-storage</artifactId>
+  <versioning>
+    <latest>1.23.1-jitsi-18037249</latest>
+    <release>1.23.1-jitsi-18037249</release>
+    <versions>
+      <version>1.23.1-jitsi-18037197</version>
+      <version>1.23.1-jitsi-18037249</version>
+    </versions>
+    <lastUpdated>20240918142815</lastUpdated>
+  </versioning>
+</metadata>
